@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tasinato
 - 👀 I’m interested in Python, Data Science, Math, Jiu Jitsu.
-- 🌱 I’m currently learning Python, Data Science, GitHub/Git and English.
-- 💞️ I’m looking to collaborate on Python and Data Science.
+- 🌱 I’m currently learning Python, Data Science, GitHub/Git and English,Swift.
 - 📫 E-mail: tasinato.rafael@gmail.com.
 
 <!---
