@@ -3,7 +3,7 @@
 I am a Software Engineer and AI Specialist working with applied Machine Learning, Computer Vision, and data-driven solutions for research and industrial environments. My work includes developing end-to-end AI pipelines, automating inspection workflows, creating datasets, and integrating deep learning models into production systems.
 
 ## 👀 Interests
-- Python, Swift, and Software Engineering  
+- Python, Swift, Java,HTML,JavaScript,CSS,PHP,SQL and Software Engineering  
 - Machine Learning, Deep Learning & Computer Vision  
 - Data Science, Mathematics, and Predictive Modeling  
 - Automation, GPUs, and High-Performance Computing  
