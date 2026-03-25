@@ -1,28 +1,59 @@
 # 👋 Hi, I’m Rafael Tasinato (@Tasinato)
 
-Software Engineer & AI Specialist focused on building **high-performance, production-grade systems**.
+> Building scalable AI systems for real-world industrial applications
 
-I work on applied research and industrial solutions within the MITDEV ecosystem (USP, FUSP, RCGI, TotalEnergies), developing **scalable ML pipelines**, integrating **deep learning models**, and orchestrating **GPU/HPC environments** for real-world applications.
+Software Engineer & AI Specialist focused on **high-performance systems**, **machine learning pipelines**, and **computer vision solutions** applied to industrial environments.
 
-My experience includes:
-- Designing and deploying **end-to-end ML pipelines**
-- Building **computer vision systems for inspection and defect detection**
-- Developing **predictive models** for industrial scenarios
-- Engineering **data pipelines and large-scale datasets**
-- Bridging **academic research and production systems**
+Currently working within the MITDEV ecosystem (USP, FUSP, RCGI, TotalEnergies), developing **production-grade AI workflows**, integrating **deep learning models**, and orchestrating **GPU/HPC environments** for large-scale applications.
 
 ---
 
-## ⚙️ Core Stack
-- **Languages:** Python, Java, JavaScript, Swift, SQL  
-- **AI/ML:** Deep Learning, Computer Vision, Predictive Modeling  
-- **Data:** Data Engineering, Dataset Pipelines, Synthetic Data  
-- **Infra:** Docker, HPC Clusters, GPU Workloads  
-- **Software Engineering:** APIs, automation, scalable systems  
+## 🧠 What I Do
+
+- Design and deploy **end-to-end ML pipelines**
+- Build **computer vision systems** for inspection and defect detection  
+- Develop **predictive models** for industrial scenarios  
+- Engineer **data pipelines and large-scale datasets**  
+- Integrate **AI systems with real-world infrastructure and APIs**  
+- Optimize **performance in HPC and GPU environments**
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+Python · Java · JavaScript · Swift · SQL  
+
+### 🤖 AI / Data
+Machine Learning · Deep Learning · Computer Vision  
+Data Engineering · Predictive Modeling · Synthetic Data  
+
+### 🏗️ Engineering
+APIs · Automation · Event-driven systems · System Architecture  
+
+### 🚀 Infrastructure
+Docker · HPC Clusters · GPU Workloads · Linux  
+
+---
+
+## 🧪 Research & Publications
+
+- Predictive Damage Detection in Wind Turbine Blades using Computer Vision  
+- Machine Learning for Erosive Wear Detection in Industrial Systems  
+
+---
+
+## 🎓 Background
+
+- Software Engineer @ FUSP (USP ecosystem)  
+- Former Professor (Computer Science, Networks, Software Engineering)  
+- Postgraduate in Data Science  
+- MBA in Software Engineering (USP/ESALQ – ongoing)
 
 ---
 
 ## 🚀 Interests
+
 - Applied AI in industrial environments  
 - High-performance computing & distributed systems  
 - Automation and DevOps for ML systems  
@@ -30,13 +61,7 @@ My experience includes:
 
 ---
 
-## 📚 Currently Learning
-- Advanced Git/GitHub workflows (CI/CD, collaboration patterns)  
-- Swift for tooling and system-level applications  
-- Scientific and technical writing in English  
-
----
-
 ## 📫 Contact
-- **Email:** tasinato.rafael@gmail.com  
-- **LinkedIn:** www.linkedin.com/in/rafael-tasinato
+
+- Email: tasinato.rafael@gmail.com  
+- LinkedIn: www.linkedin.com/in/rafael-tasinato
