@@ -1,72 +1,68 @@
 # 👋 Hi, I’m Rafael Tasinato (@Tasinato)
 
-> Building scalable AI systems for real-world industrial applications
+> Software engineering, applied AI, and computing infrastructure for research
 
-Software Engineer & AI Specialist focused on **high-performance systems**, **machine learning pipelines**, and **computer vision solutions** applied to industrial environments.
+I’m a **Software Engineer and master’s student in Naval and Ocean Engineering at the Polytechnic School of the University of São Paulo (Poli-USP)**. My interests connect applied AI, computer vision, research infrastructure, and generative AI in engineering education.
 
-Previously worked as a Software Engineer at FUSP (November 2024–May 2026), supporting research and computing infrastructure for MITDEV and NDF at USP.
+## 🔬 Research & Engineering Experience
 
-At **MITDEV**, my work combined DevOps, research infrastructure support, training machine learning models for computer vision, collaborative research, and co-authorship of scientific works.
+From **November 2024 to May 2026**, I worked as a Software Engineer at **FUSP**, supporting **MITDEV** and **NDF** at USP.
 
-At **NDF**, I supported computers, networks, servers, and HPC environments; monitored servers; managed backups, access, and VPNs; and used **Ansible** for automation and **Proxmox** for virtualization. I also developed applications and MVPs in **Python, Java, and JavaScript**, packaged executable applications, and created containers with **Docker** and **Apptainer/Singularity** for HPC workloads. Additional responsibilities included website maintenance, equipment inventory and procurement, service-provider coordination, and researcher support.
+### MITDEV — DevOps & Applied Research
 
----
+- Supported research computing infrastructure and DevOps workflows.
+- Trained machine learning models for computer vision applications.
+- Collaborated on research and co-authored scientific works on wind turbine blade inspection and defect detection.
 
-## 🧠 What I Do
+### NDF — IT Infrastructure & Software Development
 
-- Design and deploy **end-to-end ML pipelines**
-- Build **computer vision systems** for inspection and defect detection  
-- Develop **predictive models** for industrial scenarios  
-- Engineer **data pipelines and large-scale datasets**  
-- Integrate **AI systems with real-world infrastructure and APIs**  
-- Optimize **performance in HPC and GPU environments**
+- Administered and supported computers, networks, servers, and **HPC environments**.
+- Monitored servers and managed backups, access, and VPNs.
+- Automated infrastructure tasks with **Ansible** and managed virtualization with **Proxmox**.
+- Developed applications and **minimum viable products (MVPs)** in **Python, Java, and JavaScript**, and packaged applications as executables.
+- Created containers with **Docker** and **Apptainer/Singularity** for application deployment and HPC workloads.
+- Maintained the institutional website and supported researchers.
+- Managed equipment maintenance, inventory, procurement, and service-provider coordination.
 
----
+## ⚙️ Technologies
 
-## ⚙️ Tech Stack
+| Area | Technologies & Skills |
+| --- | --- |
+| Programming | Python · Java · JavaScript · Swift · SQL |
+| AI & Data | Machine Learning · Deep Learning · Computer Vision · Data Pipelines |
+| Software Engineering | APIs · Automation · Application Development · MVPs |
+| Infrastructure | Linux · HPC · Docker · Apptainer/Singularity · Ansible · Proxmox |
+| Operations | Server Monitoring · Backups · Access Management · VPNs |
 
-### 💻 Languages
-Python · Java · JavaScript · Swift · SQL  
+## 🧪 Research & Scientific Works
 
-### 🤖 AI / Data
-Machine Learning · Deep Learning · Computer Vision  
-Data Engineering · Predictive Modeling · Synthetic Data  
+I co-authored the following works. Conference dates and publication dates are distinguished where verified.
 
-### 🏗️ Engineering
-APIs · Automation · Event-driven systems · System Architecture  
+- **Visual Detection of Surface Defects in Wind Turbine Blades Using Two-Step Image Segmentation** — CILAMCE 2025; published March 18, 2026. [Article and DOI](https://doi.org/10.55592/cilamce2025.v5i.14353).
+- **Damage Detection in Wind Turbine Blades Using Computer Vision Techniques** — ETRI 2025; included in the book of abstracts published in 2026, pp. 815–819. [Book of abstracts](https://doi.org/10.5281/zenodo.19831260) — this DOI identifies the book, not the individual work.
+- **Effect of Images’ Size and Noise on Machine Learning Classifiers to Detect Erosive Wear in Wind Turbine Blades** — Wind Energy Science Conference 2025, Nantes, France, June 24–27, 2025.
+- **Predictive Damage Detection in Wind Turbine Blades Using Computer Vision and Convolutional Neural Networks** — poster presented at the 2nd Congress of Postdoctoral Researchers at USP, September 17, 2025.
 
-### 🚀 Infrastructure
-Docker · Apptainer/Singularity · Ansible · Proxmox · HPC · Linux · Backups · VPNs  
+See my [ORCID record](https://orcid.org/0009-0002-4948-9962) and [Lattes CV](http://lattes.cnpq.br/1714736733657640) for further academic information.
 
----
+## 🎓 Education & Teaching
 
-## 🧪 Research & Publications
-
-- Predictive Damage Detection in Wind Turbine Blades using Computer Vision  
-- Machine Learning for Erosive Wear Detection in Industrial Systems  
-
----
-
-## 🎓 Background
-
-- Former Software Engineer @ FUSP (November 2024–May 2026)  
-- Former Professor (Computer Science, Networks, Software Engineering)  
-- Postgraduate in Data Science  
-- MBA in Software Engineering (USP/ESALQ – ongoing)
-
----
+- **Master’s in Naval and Ocean Engineering** — Poli-USP, in progress. Research on generative AI and large language models in engineering education.
+- **MBA in Software Engineering** — USP/ESALQ, in progress.
+- Postgraduate specializations in **Data Science** and **Mathematics Teaching Methodology**.
+- Degrees in **Systems Analysis and Development** and **Mathematics teacher education**.
+- Previous teaching experience in higher education and vocational training, including software development and IT infrastructure.
 
 ## 🚀 Interests
 
-- Applied AI in industrial environments  
-- High-performance computing & distributed systems  
-- Automation and DevOps for ML systems  
-- Defect modeling and synthetic data generation  
+- Generative AI and engineering education
+- Computer vision for industrial inspection
+- Research computing, HPC, and infrastructure automation
+- Software development and reproducible research workflows
 
----
+## 📫 Contact & Profiles
 
-## 📫 Contact
-
-- Email: tasinato.rafael@gmail.com  
-- LinkedIn: www.linkedin.com/in/rafael-tasinato
-
+- [Email](mailto:tasinato.rafael@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rafael-tasinato)
+- [ORCID](https://orcid.org/0009-0002-4948-9962)
+- [Lattes CV](http://lattes.cnpq.br/1714736733657640)
