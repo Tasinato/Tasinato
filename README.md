@@ -4,7 +4,11 @@
 
 Software Engineer & AI Specialist focused on **high-performance systems**, **machine learning pipelines**, and **computer vision solutions** applied to industrial environments.
 
-Currently working within the MITDEV ecosystem (USP, FUSP, RCGI, TotalEnergies), developing **production-grade AI workflows**, integrating **deep learning models**, and orchestrating **GPU/HPC environments** for large-scale applications.
+Previously worked as a Software Engineer at FUSP (November 2024–May 2026), supporting research and computing infrastructure for MITDEV and NDF at USP.
+
+At **MITDEV**, my work combined DevOps, research infrastructure support, training machine learning models for computer vision, collaborative research, and co-authorship of scientific works.
+
+At **NDF**, I supported computers, networks, servers, and HPC environments; monitored servers; managed backups, access, and VPNs; and used **Ansible** for automation and **Proxmox** for virtualization. I also developed applications and MVPs in **Python, Java, and JavaScript**, packaged executable applications, and created containers with **Docker** and **Apptainer/Singularity** for HPC workloads. Additional responsibilities included website maintenance, equipment inventory and procurement, service-provider coordination, and researcher support.
 
 ---
 
@@ -32,7 +36,7 @@ Data Engineering · Predictive Modeling · Synthetic Data
 APIs · Automation · Event-driven systems · System Architecture  
 
 ### 🚀 Infrastructure
-Docker · HPC Clusters · GPU Workloads · Linux  
+Docker · Apptainer/Singularity · Ansible · Proxmox · HPC · Linux · Backups · VPNs  
 
 ---
 
@@ -45,7 +49,7 @@ Docker · HPC Clusters · GPU Workloads · Linux
 
 ## 🎓 Background
 
-- Software Engineer @ FUSP (USP ecosystem)  
+- Former Software Engineer @ FUSP (November 2024–May 2026)  
 - Former Professor (Computer Science, Networks, Software Engineering)  
 - Postgraduate in Data Science  
 - MBA in Software Engineering (USP/ESALQ – ongoing)
@@ -65,3 +69,4 @@ Docker · HPC Clusters · GPU Workloads · Linux
 
 - Email: tasinato.rafael@gmail.com  
 - LinkedIn: www.linkedin.com/in/rafael-tasinato
+
