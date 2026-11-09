@@ -42,7 +42,7 @@ From **November 2024 to May 2026**, I worked as a Software Engineer at **FUSP**,
 
 | Area | Technologies & Skills |
 | --- | --- |
-| Programming | Python · Java · JavaScript · Swift · SQL |
+| Programming | Python · PHP · Java · JavaScript · Swift · SQL |
 | AI & Data | Machine Learning · Deep Learning · Computer Vision · Data Pipelines |
 | Software Engineering | APIs · Automation · Application Development · MVPs |
 | Infrastructure | Linux · HPC · Docker · Apptainer/Singularity · Ansible · Proxmox |
