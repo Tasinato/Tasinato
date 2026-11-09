@@ -13,10 +13,13 @@ I’m a **Software Engineer and master’s student in Naval and Ocean Engineerin
 | [Estudos-Python](https://github.com/Tasinato/Estudos-Python) | Learning history | Course exercises, notebooks, and revised solutions, preserving original work and crediting instructors and platforms. |
 | [Laravel posts, comments & auth](https://github.com/Tasinato/laravel-posts-comments-auth) | Web development | A Laravel project focused on posts, comments, authentication, and authorization with Policies. |
 | [R-CNN study notes](https://github.com/Tasinato/RCNN-RossGirshick) | Conceptual computer vision study | Notes comparing the R-CNN family, with references to the original papers; no original implementation or trained models in this repository. |
+| [Ebook-ADA](https://github.com/Tasinato/Ebook-ADA) | Educational writing & digital publishing | A Portuguese ebook on Ada Lovelace and the origins of programming, with revised references, an updated illustrated PDF, and a rebuilt EPUB with navigation, validated using EPUBCheck. |
 
 [![JABUTI CI](https://github.com/Tasinato/JABUTI-FASTAPI/actions/workflows/tests.yml/badge.svg)](https://github.com/Tasinato/JABUTI-FASTAPI/actions/workflows/tests.yml)
 
 JABUTI includes 34 automated tests and 20 integration checks with real PostgreSQL and Redis, including cache outages and migration rollback/reapply. Its [CI guide](https://github.com/Tasinato/JABUTI-FASTAPI/blob/main/docs/development/continuous-integration.md) explains the workflow and local reproduction. It is a demonstration project with documented limitations, including possible stale cache entries until expiration after an outage.
+
+**Ebook-ADA:** explore the [illustrated PDF](https://github.com/Tasinato/Ebook-ADA/blob/main/assets/dist/EBOOK%20LOVELACE.pdf), [download the EPUB](https://github.com/Tasinato/Ebook-ADA/raw/refs/heads/main/assets/ebook.epub), or read the [generation and validation notes](https://github.com/Tasinato/Ebook-ADA/blob/main/docs/formatos-de-leitura.md). AI-assisted revision and illustration are credited.
 
 ## 🔬 Research & Engineering Experience
 
