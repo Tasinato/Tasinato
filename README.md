@@ -4,6 +4,20 @@
 
 I’m a **Software Engineer and master’s student in Naval and Ocean Engineering at the Polytechnic School of the University of São Paulo (Poli-USP)**. My interests connect applied AI, computer vision, research infrastructure, and generative AI in engineering education.
 
+## 🛠️ Selected Projects
+
+| Project | Focus | What you can explore |
+| --- | --- | --- |
+| [JABUTI FastAPI](https://github.com/Tasinato/JABUTI-FASTAPI) | Backend demonstration | Async API, PostgreSQL, Redis, Docker, Alembic migrations, API-key authentication, and GitHub Actions CI with unit and real-service integration tests. |
+| [PythonAulas](https://github.com/Tasinato/PythonAulas) | Teaching material | Equivalent password-validation exercises using sequential code, functions, and classes, plus ten introductory exercises with solutions and examples. |
+| [Estudos-Python](https://github.com/Tasinato/Estudos-Python) | Learning history | Course exercises, notebooks, and revised solutions, preserving original work and crediting instructors and platforms. |
+| [Laravel posts, comments & auth](https://github.com/Tasinato/laravel-posts-comments-auth) | Web development | A Laravel project focused on posts, comments, authentication, and authorization with Policies. |
+| [R-CNN study notes](https://github.com/Tasinato/RCNN-RossGirshick) | Conceptual computer vision study | Notes comparing the R-CNN family, with references to the original papers; no original implementation or trained models in this repository. |
+
+[![JABUTI CI](https://github.com/Tasinato/JABUTI-FASTAPI/actions/workflows/tests.yml/badge.svg)](https://github.com/Tasinato/JABUTI-FASTAPI/actions/workflows/tests.yml)
+
+JABUTI includes 34 automated tests and 20 integration checks with real PostgreSQL and Redis, including cache outages and migration rollback/reapply. Its [CI guide](https://github.com/Tasinato/JABUTI-FASTAPI/blob/main/docs/development/continuous-integration.md) explains the workflow and local reproduction. It is a demonstration project with documented limitations, including possible stale cache entries until expiration after an outage.
+
 ## 🔬 Research & Engineering Experience
 
 From **November 2024 to May 2026**, I worked as a Software Engineer at **FUSP**, supporting **MITDEV** and **NDF** at USP.
@@ -36,7 +50,7 @@ From **November 2024 to May 2026**, I worked as a Software Engineer at **FUSP**,
 
 ## 🧪 Research & Scientific Works
 
-I co-authored the following works. Conference dates and publication dates are distinguished where verified.
+The works below document my collaborative research contributions. They are separate from the conceptual R-CNN study repository listed above; I do not present that repository as the implementation of these studies. Conference dates and publication dates are distinguished where verified.
 
 - **Visual Detection of Surface Defects in Wind Turbine Blades Using Two-Step Image Segmentation** — CILAMCE 2025; published March 18, 2026. [Article and DOI](https://doi.org/10.55592/cilamce2025.v5i.14353).
 - **Damage Detection in Wind Turbine Blades Using Computer Vision Techniques** — ETRI 2025; included in the book of abstracts published in 2026, pp. 815–819. [Book of abstracts](https://doi.org/10.5281/zenodo.19831260) — this DOI identifies the book, not the individual work.
